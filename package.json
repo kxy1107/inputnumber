@@ -1,7 +1,7 @@
 {
   "name": "inputnumber",
   "version": "1.0.0",
-  "description": "",
+  "description": "counter",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,8 @@
     "url": "\u0016https://github.com/tulaoing/inputnumber"
   },
   "keywords": [
-    "inputnumber"
+    "inputnumber",
+    "counter"
   ],
   "author": "tulaoing",
   "license": "ISC"
