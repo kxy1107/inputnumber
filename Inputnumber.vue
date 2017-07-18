@@ -48,6 +48,7 @@ export default {
             // console.log(newval);
             this.currentnumber=newval;
             this.$emit('change',oldval,newval,this.attr);
+            this.$emit('input', newval);
         },
         add(){
             if(this.currentnumber>=this.max){
