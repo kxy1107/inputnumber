@@ -1,12 +1,12 @@
 # inputnumber计数器
 ### 此组件时基于vue前端框架，安装成功后在入口文件中添加一下代码，就可以在全站使用
+![Image text](./viewshow/GIF.gif)
 
 `import Inputnumber from './components/customcomponents/inputnumber'`
 `Vue.use(Inputnumber)`
 
 ### 在组件中一下代码可以引入
 `<inputnumber></inputnumber>`
-
 
 ### 可接收的参数
 | 参数名称        | 说明           | 默认值  |
